@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+A blog website created using Next.js. Deployed here https://next-js-project-rho.vercel.app/
