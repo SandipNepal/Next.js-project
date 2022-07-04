@@ -39,6 +39,11 @@ export default function Home({ allPostsData }) {
             Sandip Nepal
           </a>
           .)
+          <Link href={"/fileuploader"}>
+            <h4>
+              <a>Upload excel file</a>
+            </h4>
+          </Link>
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
